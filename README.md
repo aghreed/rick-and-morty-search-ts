@@ -1,3 +1,13 @@
+This project was written to demonstrate how to put a face on data from a public API using Typescript and React.
+
+In order to get the project running locally:
+1. Run `npm install` on the root directory
+2. Run `npm run start` after dependencies are installed
+3. Search for things within the Rick and Morty universe
+
+# ORIGINAL README BELOW
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
 Below you will find some information on how to perform common tasks.<br>
