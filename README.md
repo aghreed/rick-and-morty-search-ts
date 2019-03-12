@@ -5,6 +5,8 @@ In order to get the project running locally:
 2. Run `npm run start` after dependencies are installed
 3. Search for things within the Rick and Morty universe
 
+Documentation on the API can be found [here](https://rickandmortyapi.com/documentation/)
+
 # ORIGINAL README BELOW
 
 
