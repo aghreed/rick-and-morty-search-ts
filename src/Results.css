@@ -1,0 +1,40 @@
+.results-container {
+    margin: 2em auto;
+    width: 70%;
+    border-top: 2px solid #222;
+    padding-top: 2em;
+}
+
+.results-header {
+    display: flex;
+    justify-content: space-evenly;
+    border-bottom: 1px solid #222;
+}
+
+.results-header div {
+    width: 20%;
+    font-weight: bold;
+    font-size: 1.1em;
+    text-align: center;
+}
+
+.result {
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    margin: 0.25em;
+    padding: 0.25em;
+    border-bottom: 1px solid #222;
+}
+
+.result div {
+    width: 20%;
+}
+
+.result-image {
+    width: 100px;
+    height: 100px;
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-position: center;
+}
